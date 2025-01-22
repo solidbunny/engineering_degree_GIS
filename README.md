@@ -1,4 +1,5 @@
 Polski
+
 Repozytorium zawiera skrypty Python oraz modele stworzone do pomiaru powierzchni jezior przy użyciu zdjęć lotniczych o rozdzielczości piksela 25 cm.
 Rozdzielczość piksela można dostosować w skrypcie
 
@@ -15,6 +16,7 @@ Jestem jednak otwarty na kontakt i jeśli będę dalej posiadać pliki użyte do
 Kontakt prosze kierować pod email solidbunny@tutanota.com
 
 English
+
 Repository contains Python scripts as well as models created for measuring surface area of lakes using aerial photos with pixel resolution of 25cm.
 Resolution of the pixel can be adjusted within the script
 
