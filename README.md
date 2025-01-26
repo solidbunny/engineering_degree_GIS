@@ -33,3 +33,20 @@ Due to size and well as volume of the files used for both machine learning as we
 I am however open to contact and will be happy to share those in some other way we might find together given I still have them when you contact me (it is over 100GB).
 
 You can contact me under solidbunny@tutanota.com
+
+requirements:
+Python 3.9
+
+tensorflow+keras
+matplotlib.pyplot
+numpy
+tqdm
+torch
+torchvision
+PIL
+os
+tqdm
+torch.nn
+matplotlib.pyplot
+numpy
+sklearn
